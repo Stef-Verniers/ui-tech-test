@@ -1,5 +1,4 @@
 import { useSearchParams } from "react-router-dom"
-type Mode = "preview" | "edit"
 
 export default function useMode() {
 
